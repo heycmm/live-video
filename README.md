@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python main.py
 ```
 ```shell
-cd youmi-app 
+cd client/youmi-app 
 yarn
 yarn serve
 ```
